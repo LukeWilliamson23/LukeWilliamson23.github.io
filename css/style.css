@@ -3,9 +3,7 @@
   background-color: #777;
 
 }
-body{
-  style="margin:0;"
-}
+
 /* Center the loader */
 #loader {
   position: absolute;
@@ -53,7 +51,7 @@ body{
   to{ bottom:0; opacity:1 }
 }
 
-#welcome {
+#myDiv {
   display: none;
   text-align: center;
 }
