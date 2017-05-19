@@ -53,7 +53,7 @@ body{
   to{ bottom:0; opacity:1 }
 }
 
-#myDiv {
+#welcome {
   display: none;
   text-align: center;
 }
