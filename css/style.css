@@ -35,7 +35,6 @@
 /* Add animation to "page content" */
 .animate-bottom {
   position: relative;
-  top:80%;
   -webkit-animation-name: animatebottom;
   -webkit-animation-duration: 1s;
   animation-name: animatebottom;
@@ -44,12 +43,12 @@
 
 @-webkit-keyframes animatebottom {
   from { bottom:-100px; opacity:0 }
-  to { bottom:0px; opacity:1 }
+  to { bottom:-50px; opacity:1 }
 }
 
 @keyframes animatebottom {
   from{ bottom:-100px; opacity:0 }
-  to{ bottom:0; opacity:1 }
+  to{ bottom:-50px; opacity:1 }
 }
 
 #introduction {
