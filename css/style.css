@@ -42,13 +42,13 @@
 }
 
 @-webkit-keyframes animatebottom {
-  from { bottom:-100px; opacity:0 }
-  to { bottom:-50px; opacity:1 }
+  from { bottom:-200px; opacity:0 }
+  to { bottom:-100px; opacity:1 }
 }
 
 @keyframes animatebottom {
-  from{ bottom:-100px; opacity:0 }
-  to{ bottom:-50px; opacity:1 }
+  from{ bottom:-200px; opacity:0 }
+  to{ bottom:-100; opacity:1 }
 }
 
 #introduction {
